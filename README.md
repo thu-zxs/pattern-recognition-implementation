@@ -1,6 +1,6 @@
 # pattern-recognition-implementation
 
-This repository is about Python-implemented classic machine learning algorithm/model based on my Homework of 2018 spring Tsinghua Pattern Recognition course instructed by Changshui Zhang, including:
+This repository is about Python-implemented classic machine learning algorithm/model based on my Homework of 2018 spring Tsinghua Pattern Recognition course instructed by Professor Changshui Zhang, including:
 
 + Maximum Likelihood Estimation
 + Expectation Maximization
